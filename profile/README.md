@@ -3,9 +3,9 @@
 ## About
 This Project develop a person verification platform using blockchain tecnology.
 Project deliverables include:
-* A cross-platform application
-* Integration Library to used by third-parties to integrate features like SOS
-* Demo application which uses the integration library
+* A mobile application [link](https://github.com/IdentityBlock/iBlockApp/releases/tag/v1.1.1)
+* Integration Library to used by third-parties to integrate features like SOS [link](https://www.npmjs.com/package/iblock-verifier)
+* Demo application which uses the integration library [link](https://iblock-verifier-demo.herokuapp.com/)
 
 ## Documentations
 * [Project Proposal](https://github.com/IdentityBlock/.github/blob/main/documentation/01%20-%20Project%20Proposal.pdf)
